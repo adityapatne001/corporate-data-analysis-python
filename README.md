@@ -49,7 +49,7 @@ The primary focus of the project is on **data cleaning, aggregation logic, autom
 - Preview reports and charts before exporting
 - Designed to reflect real analyst-driven reporting tools used in organizations
 
-This project was completed as part of a certified Power BI course by [Mr. Satish Dhawale – Founder and CEO @ Skill Course].
+This project was completed as part of a certified AI Powered Python course by [Mr. Satish Dhawale – Founder and CEO @ Skill Course].
 
 
 
