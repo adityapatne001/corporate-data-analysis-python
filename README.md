@@ -35,6 +35,7 @@ The primary focus of the project is on **data cleaning, aggregation logic, autom
 ### 🔹 Data Visualization
 - Visual insights generated using Matplotlib:
   - Bar Chart
+  ![bar_chart](./outputs/bar_chart.png)
   - Column Chart
   - Line Chart
   - Pie Chart
