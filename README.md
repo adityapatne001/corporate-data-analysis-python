@@ -37,8 +37,11 @@ The primary focus of the project is on **data cleaning, aggregation logic, autom
   - Bar Chart
   ![bar_chart](./outputs/bar_chart.png)
   - Column Chart
+  ![column_chart](./outputs/column_chart.png)
   - Line Chart
+  ![line_chart](./outputs/line_chart.png)
   - Pie Chart
+  ![pie_chart](./outputs/pie_chart.png)
 - Charts can be exported as **PNG images** for presentations and reporting
 
 ### 🔹 Business-Oriented Workflow
