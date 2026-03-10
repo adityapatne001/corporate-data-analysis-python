@@ -1,4 +1,4 @@
-# 📊 Corporate Data Analysis & Reporting Tool – Python
+# 📊 Corporate Data Analysis & Reporting Tool using Python
 
 **Tools Used:** Python, Pandas, Matplotlib, Tkinter  
 **Dataset:** Sample Business Sales Data (Excel / CSV)  
