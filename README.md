@@ -8,9 +8,9 @@
 
 ## 🔍 Project Overview
 
-This project is an end-to-end **Python-based data analysis and reporting tool** designed to simulate real-world business reporting workflows. It enables users to load raw CSV or Excel datasets, clean and aggregate data, generate summary reports and visualize insights through charts.
+This project is an end-to-end **Python-based data analysis and reporting tool** designed to simulate real-world business reporting workflows. It enables users to load raw CSV or Excel datasets, clean and aggregate data, generate summary reports, and visualize insights through charts.
 
-The primary focus of the project is on **data cleaning, aggregation logic, automated reporting and visualization**, demonstrating practical usage of Python for data analytics rather than GUI development.
+The primary focus of the project is on **data cleaning, aggregation logic, automated reporting, and visualization**, demonstrating practical usage of Python for data analytics rather than GUI development.
 
 ---
 
@@ -45,6 +45,6 @@ The primary focus of the project is on **data cleaning, aggregation logic, autom
 - Charts can be exported as **PNG images** for presentations and reporting
 
 ### 🔹 Business-Oriented Workflow
-- Interactive selection of grouping, aggregation and value columns
+- Interactive selection of grouping, aggregation, and value columns
 - Preview reports and charts before exporting
 - Designed to reflect real analyst-driven reporting tools used in organizations
